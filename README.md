@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Halo, saya Farhanudin!
+Saya adalah siswa SMK Wikrama Bogor dan seorang Backend Developer yang berfokus pada Python dan pengembangan API menggunakan FastAPI dan Flask.
 
-<!--
-**farhanudin26/farhanudin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Keahlian
+- Python (FastAPI, Flask)
+- JavaScript (React.js)
+- MySQL, SQLite
+- Git & GitHub
 
-Here are some ideas to get you started:
+## 📈 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanudin26&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Tautan
+- 🌐 [Portfolio](https://farhanudin26.github.io/)
+- 📧 Email: muhamadfarhanudin@smkwikrama.sch.id
