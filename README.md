@@ -1,15 +1,17 @@
 # 👋 Halo, saya Farhanudin!
-Saya adalah siswa SMK Wikrama Bogor dan seorang Backend Developer yang berfokus pada Python dan pengembangan API menggunakan FastAPI dan Flask.
+Saya adalah seorang Backend Developer yang berfokus pada pengembangan API menggunakan Python, FastAPI, dan Flask. Saya memiliki pengalaman membangun aplikasi berbasis web, mengelola database, dan membuat sistem RESTful API yang efisien dan terstruktur.
 
 ## 🛠️ Keahlian
 - Python (FastAPI, Flask)
 - JavaScript (React.js)
 - MySQL, SQLite
 - Git & GitHub
+- Docker (dasar)
+- REST API Development
 
 ## 📈 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhanudin26&show_icons=true&theme=tokyonight)
 
 ## 🔗 Tautan
 - 🌐 [Portfolio](https://farhanudin26.github.io/)
-- 📧 Email: muhamadfarhanudin@smkwikrama.sch.id
+- 📧 Email: hannstars79@gmail.com
